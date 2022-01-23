@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab06-Notes-393-Gavrilov</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_create">Create</string>
+    <string name="button_edit">Edit</string>
+    <string name="text_noteName">Title</string>
+    <string name="text_content">Content</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
